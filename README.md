@@ -163,4 +163,3 @@ Deploy on Kubernetes
 Author
 ===========
 Nikhil 
-Java Backend Developer
